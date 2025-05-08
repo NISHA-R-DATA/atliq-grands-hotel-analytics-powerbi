@@ -1,17 +1,18 @@
 # 📊 AtliQ Grands: Data-Driven Strategies to Optimize Hotel Revenue and Market Share
 
 ## 📑 Table of Contents
-1. [Project Overview]  
-2. [Business Problem]  
-3. [Data Overview] 
-4. [Approach]  
-   - [Data Acquisition & Cleaning]  
-   - [Data Modeling]  
-   - [DAX Calculations]  
-   - [Dashboard Development] 
-5. [Key Insights Uncovered]  
-6. [Recommendations]  
-7. [Conclusion]
+1. [Project Overview](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-project-overview)  
+2. [Business Problem](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-business-problem)  
+3. [Data Overview](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-data-overview)
+4. [Tools and Technologies Used](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#tools-and-technologies-used)
+5. [Approach](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#%EF%B8%8F-approach)
+   - [Data Acquisition & Cleaning](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#1-data-acquisition--cleaning)  
+   - [Data Modeling](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#2-data-modeling)  
+   - [DAX Calculations](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#3-dax-calculations)  
+   - [Dashboard Development](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#4-dashboard-development) 
+6. [Key Insights Uncovered](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-key-insights-uncovered) 
+7. [Recommendations](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-recommendations)  
+8. [Conclusion](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-conclusion)
 
 ---
 
