@@ -57,7 +57,8 @@ The core objective of this project was to extract valuable insights from the com
 ### Data Model:
 - **Fact Tables**: `Fact_Bookings`, `FactAggregated_Bookings`  
 - **Dimension Tables**: `Dim_Date`, `Dim_Rooms`, `Dim_Hotels`
-### Key Columns for Analysis: Revenue, Room Class, Booking Platform, Occupancy, Booking Status, Guest Count
+### Key Columns for Analysis: 
+Revenue, Room Class, Booking Platform, Occupancy, Booking Status, Guest Count
 
 
 ---
