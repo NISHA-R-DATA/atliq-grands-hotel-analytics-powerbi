@@ -64,7 +64,7 @@ Revenue, Room Class, Booking Platform, Occupancy, Booking Status, Guest Count
 
 ---
 
-### Tools and Technologies Used:
+### 🛠️ Tools and Technologies Used:
 
 | Tool/Technology | Purpose |
 |-----------------|---------|
@@ -75,7 +75,7 @@ Revenue, Room Class, Booking Platform, Occupancy, Booking Status, Guest Count
 
 ---
 
-## 🛠️ Approach
+##  Approach
 The project was delivered through a **four-phase analytics lifecycle**:
 
 ### 1. Data Acquisition & Cleaning
