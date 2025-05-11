@@ -23,8 +23,8 @@ To address these challenges, an interactive and comprehensive **Power BI dashboa
 ## 📑 Table of Contents
 1. [Business Problem](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-business-problem)  
 2. [Data Overview](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-data-overview)
-3. [Tools and Technologies Used](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#tools-and-technologies-used)
-4. [Approach](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#%EF%B8%8F-approach)
+3. [Tools and Technologies Used](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#%EF%B8%8F-tools-and-technologies-used)
+4. [Approach](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-approach)
    - [Data Acquisition & Cleaning](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#1-data-acquisition--cleaning)  
    - [Data Modeling](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#2-data-modeling)  
    - [DAX Calculations](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#3-dax-calculations)  
