@@ -1,20 +1,4 @@
-# 📊 AtliQ Grands: Data-Driven Strategies to Optimize Hotel Revenue and Market Share
-
-## 📑 Table of Contents
-1. [Project Overview](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-project-overview)  
-2. [Business Problem](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-business-problem)  
-3. [Data Overview](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-data-overview)
-4. [Tools and Technologies Used](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#tools-and-technologies-used)
-5. [Approach](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#%EF%B8%8F-approach)
-   - [Data Acquisition & Cleaning](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#1-data-acquisition--cleaning)  
-   - [Data Modeling](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#2-data-modeling)  
-   - [DAX Calculations](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#3-dax-calculations)  
-   - [Dashboard Development](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#4-dashboard-development) 
-6. [Key Insights Uncovered](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-key-insights-uncovered) 
-7. [Recommendations](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-recommendations)  
-8. [Conclusion](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-conclusion)
-
----
+![title_image](https://github.com/user-attachments/assets/1009922c-e8f2-412d-9e5a-47dab460704f)
 
 ## 📘 Project Overview
 **AtliQ Grands**, a leading chain of luxury and business hotels in India, faced significant challenges, including a decline in **market share** and **revenue**. Increased competition, a lack of **data-backed decision-making**, and the absence of an **internal analytics team** led to the underutilization of historical data, resulting in missed strategic opportunities.
@@ -33,6 +17,21 @@ To address these challenges, an interactive and comprehensive **Power BI dashboa
 
 ![Dashbord 2](https://github.com/user-attachments/assets/e41ee944-cd6b-490b-882c-dc79dff9116d)
 
+
+---
+
+## 📑 Table of Contents
+1. [Business Problem](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-business-problem)  
+2. [Data Overview](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-data-overview)
+3. [Tools and Technologies Used](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#tools-and-technologies-used)
+4. [Approach](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#%EF%B8%8F-approach)
+   - [Data Acquisition & Cleaning](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#1-data-acquisition--cleaning)  
+   - [Data Modeling](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#2-data-modeling)  
+   - [DAX Calculations](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#3-dax-calculations)  
+   - [Dashboard Development](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#4-dashboard-development) 
+5. [Key Insights Uncovered](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-key-insights-uncovered) 
+6. [Recommendations](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-recommendations)  
+7. [Conclusion](https://github.com/NISHA-R-DATA/atliq-grands-hotel-analytics-powerbi?tab=readme-ov-file#-conclusion)
 
 ---
 
@@ -75,7 +74,7 @@ Revenue, Room Class, Booking Platform, Occupancy, Booking Status, Guest Count
 
 ---
 
-##  Approach
+## 📊 Approach
 The project was delivered through a **four-phase analytics lifecycle**:
 
 ### 1. Data Acquisition & Cleaning
@@ -89,8 +88,13 @@ The project was delivered through a **four-phase analytics lifecycle**:
 
 ### 2. Data Modeling
 - Implemented a **Star Schema** to optimize performance and enable **drill-down analysis**
-- Created **one-to-many relationships** between fact and dimension tables
+- Created **many-to-one** relationships** between fact and dimension tables
 - Ensured proper **relationship cardinality** and **filter directions** for intuitive reporting
+
+*Snapshot of the relational model developed to define connections between fact and dimension entities for accurate analysis.*
+
+
+![model](https://github.com/user-attachments/assets/c0434923-0945-4a38-8511-eb1c56101f89)
 
 ### 3. DAX Calculations
 Developed key performance metrics:
